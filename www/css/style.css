@@ -11,8 +11,10 @@ button {
 }
 
 #btnA {
-  background-color: yellow; 
+  background-color: yellow;
+  color: green; 
 }
+
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
