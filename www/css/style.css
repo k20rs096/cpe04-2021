@@ -28,6 +28,12 @@ button {
   font-weight: bold;
 }
 
+#btnD {
+  background-color:violet;
+  color: black;
+  font-weight: bold;
+}
+
 
 
 #time {
