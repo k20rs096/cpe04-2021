@@ -229,6 +229,10 @@
         analog(rest);  
       }
 
+      if(rest <= 5){
+        $("body").css("background-color","white");
+      }
+
       if(rest <= 0){
         active = false;
         alarm();
