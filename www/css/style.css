@@ -22,6 +22,12 @@ button {
   font-weight: bold;
 }
 
+#btnC {
+  background-color: blue;
+  color: black;
+  font-weight: bold;
+}
+
 
 
 #time {
